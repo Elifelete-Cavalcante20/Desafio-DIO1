@@ -1,0 +1,10 @@
+# Elifelete Cavalcante 
+
+Olá, sou um jovem apaixonado por técnologia formado em mecatrônica   
+e graduando em ciências da computaçao.   
+E este é o meu primeiro desafio da DIO o **Classificador de nível do herói**.
+
+## CONECTE-SE COMIGO! 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elifelete-cavalcante-b539ab1b6/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elifelete-Cavalcante20)

@@ -11,11 +11,4 @@ const Mensagem = "O herói de nome " + NomeHeroi + " está no nível de: " + Ran
 if (NivelHeroi <= "1000"){
     console.log(Mensagem)
     console.log(NivelHeroi)
-} else if (NivelHeroi >= "2000"){ 
-    Rank = "Bronze" 
-    console.log(Mensagem)
-    console.log(NivelHeroi)
-}
-else {
-
-}
+} 
